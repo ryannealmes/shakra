@@ -1,0 +1,9 @@
+[submodule "shakra-user-service"]
+	path = shakra-user-service
+	url = git@github.com:ryannealmes/shakra-user-service.git
+[submodule "shakra-goal-service"]
+	path = shakra-goal-service
+	url = git@github.com:ryannealmes/shakra-goal-service.git
+[submodule "shakra-api"]
+	path = shakra-api
+	url = git@github.com:ryannealmes/shakra-api.git
