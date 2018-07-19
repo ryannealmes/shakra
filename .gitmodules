@@ -7,3 +7,6 @@
 [submodule "shakra-api"]
 	path = shakra-api
 	url = git@github.com:ryannealmes/shakra-api.git
+[submodule "shakra-web"]
+	path = shakra-web
+	url = git@github.com:ryannealmes/shakra-web.git
